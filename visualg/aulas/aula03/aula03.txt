@@ -1,0 +1,14 @@
+prática : 
+Solicitar dois números para o usuário mostrar a soma entre eles.
+Resposta:
+Algoritmo 
+var
+	n1, n2, s: inteiro
+inicio
+	escreva ("Informe um número:")
+	leia(n1)
+	escreva ("Informe outro número:")
+	leia(n2)
+	s<- n1 + n2
+	escreva ("A soma entre ",n1," e ",n2, " e igual a ",s)
+fimalgoritmo

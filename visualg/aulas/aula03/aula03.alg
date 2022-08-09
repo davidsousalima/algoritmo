@@ -1,13 +1,9 @@
-algoritmo "Valores"
-
+algoritmo "conversor"
 var
-   n1, n2 :inteiro
-   m: real
+   angulo, s :Real
 inicio
-   escreva(" informe um número :")
-   leia(n1)
-   escreva ("informe outro número:")
-   leia(n2)
-   m <- (n1+n2)/2
-   escreva("A media entre",n1, " e " ,n2, " e igual a ",m)
+      Escreva ("Informe um angulo:")
+      leia(angulo)
+      s <- sen(GraupRad(angulo))
+      escreva ("O seno de ",angulo, "e igual a ", s)
 fimalgoritmo
