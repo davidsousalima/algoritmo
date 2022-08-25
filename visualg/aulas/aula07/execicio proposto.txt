@@ -1,0 +1,22 @@
+exercicio 01
+--------------------------
+Departamento de Transito
+---------------------------
+Ano Atual (yyyy): 
+Ano de Nascimento (yyyy):
+---------Status------------
+IDADE: 
+APTO A TIRAR CARTEIRA
+---------------------------
+
+
+exercicio 02
+--------------------
+escola JAVALI CANSADO
+---------------------
+primeira nota :
+segunda nota:
+---------------------
+media:
+aluno reprovado
+----------------------

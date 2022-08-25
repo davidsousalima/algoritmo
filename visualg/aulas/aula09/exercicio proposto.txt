@@ -1,0 +1,19 @@
+contagem inteligente
+-------------------- 
+inicio:
+fim:
+---------------------
+CONTANDO
+----------------------
+
+melhor aluno da turma
+----------------------
+escola santa paciencia
+-----------------------
+Quantos alunos a turma tem?
+--------------
+aluno 
+nome do aluno:
+nota de :
+----------------------
+O melhor aproveitamento foi de ......

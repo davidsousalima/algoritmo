@@ -1,0 +1,20 @@
+exercicio 01
+-----------------------
+primeira nota:
+segunda nota:
+----------------------
+media:
+aproveitamento:
+-----------------------
+("resolva com se entao...")
+
+exercicio 02
+------------------------
+bangu x madureira
+------------------------
+quantos gols do bangu?
+quntos gols do madureira?
+-------------------------
+diferença:
+status:
+-------------------------

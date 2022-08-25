@@ -1,0 +1,7 @@
+exercicio 05
+faça um algoritmo que calcule o quanto deve pagar em parcelas apos o emprestimo
+ taxa de juros 20%
+
+-qual o valor de emprestimo?
+-quantas parcelas?
+-vou pagar () parcelas de R$ () 
